@@ -1,4 +1,4 @@
-MY PORTFOLIO-https://lnk.ink/Adityasportfolio
+MY PORTFOLIO-https://portfolio-a98f.vercel.app/
 ---
 Aditya Singh — Portfolio Website
 
@@ -120,5 +120,6 @@ Linkedin: https://www.linkedin.com/in/aditya-singh-204a27289/
 Email: adityas23100@iiitnr.edu.in
 
 LinkedIn: your-link-here
+
 
 
